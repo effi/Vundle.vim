@@ -1,5 +1,11 @@
 ## [Help Maintain Vundle](https://github.com/gmarik/Vundle.vim/issues/383)
 
+###About this repo:
+This repo is a clone of gmarik/vundle.vim repo for fast setup purposes!
+please go to the original repo for the latest and offizial vundle package.
+This package contains also a vimrc to quickly setup vim.
+
+
 ## About
 
 [Vundle] is short for _Vim bundle_ and is a [Vim] plugin manager.
